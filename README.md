@@ -11,7 +11,6 @@ You will need to have a working IBM CPLEX installation. If you are a student or 
 
 ## Contents
 
-* `src/algos/a2c_gnn.py`: PyTorch implementation of A2C-GNN.
 * `src/algos/a2c_gnn_jax.py`: JAX implementation of A2C-GNN (MINE)
 * `src/algos/reb_flow_solver.py`: thin wrapper around CPLEX formulation of the Rebalancing problem (Section III-A in the paper).
 * `src/envs/amod_env.py`: AMoD simulator.
